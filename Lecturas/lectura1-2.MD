@@ -1,6 +1,6 @@
 # Lectura 2
 
-## Post original FunkSVD ##
+## Post original FunkSVD
 
 Esta lectura corresponde a un blog, escrito por Simon, donde describe su proceso para obtener un Sistema recomendador SVN para el concurso de netflix prize, en el cual obtuvo el tercer lugar. El realiza una descripción de lo que consiste este concurso, que intenta realizar recomendaciones, solo sabiendo los títulos de las películas, y algunos gustos de usuarios. Para este concurso Netflix proporcionó 100 millones de calificaciones (de 1 a 5) de 17 mil películas por 500 mil usuarios. Estos llegan esencialmente en forma de un triplete de números: (Usuario, Película, Calificación). Esta matriz tendría aproximadamente 8.500 millones de entradas (número de usuarios multiplicado por el número de películas). Además, solo tiene valores para 1 de cada 85 de las celdas. El resto está en blanco.
 
