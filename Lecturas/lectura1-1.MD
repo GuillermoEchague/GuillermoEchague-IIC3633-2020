@@ -4,15 +4,51 @@
 
 * Un mini resumen del tema del paper, como contexto.
 
-
+En el desarrollo de la publicación, como en todo trabajo de 
+investigación, inicia dando a conocer el estado del arte del tema a 
+desarrollar durante la investigación. Aquí los autores mencionan que
+los sistemas recomendadores aplican técnicas de descubrimiento del
+conocimiento al problema de hacer recomendaciones personalizadas
+de información, productos o servicios todo en tiempo real,
+mientras el usuario esta interactuando con el servicio. Los
+sistemas recomendadores tienen una gran aplicación al momento de
+agregar valor a los negocios, desde la base de información de los
+usuarios. Estos sistemas permiten ayudar a los usuarios a
+encontrar de mejor forma que es lo que ellos quieren, en especial
+en los sistemas web de E-commerce. En un principio, los autores
+mencionan que el sistema de filtrado que se utiliza de manera
+más tradicional son los filtrado basado en el filtrado
+colaborativo de k vecinos más cercanos, este método entrega buenos 
+resultados, pero el aumento significativo de una gran cantidad de 
+usuarios, como es el de visitantes a sitios web, a creado la 
+necesidad de poder probar otros algoritmos que permitan 
+principalmente enfrentar nuevos desafíos como lo son: producir 
+recomendaciones de alta calidad, realizar muchas recomendaciones por 
+segundo para millones de usuarios y elementos y lograr una alta 
+cobertura ante la escasez de datos, esto se debe principalmente a 
+que actualmente la generación y acceso a la información tiene una 
+taza mayor que la habilidad de procesarla. Una de las técnicas más 
+promisorias, para enfrentar los desafíos mencionados anteriormente, 
+son los filtros colaborativos, estos trabajan creando una base de 
+datos de usuarios, y al ingresar un nuevo usuario, el sistema 
+recomienda por medio de la vecindad del nuevo usuario, que contenga 
+sus mismos gustos. Pero estos algoritmos deben superar dos desafíos, 
+la primera es el aumento del tamaño de análisis de información y la 
+calidad de estas recomendaciones. Por lo que las soluciones 
+propuestas deben poder entregar una solución para ambos desafíos de 
+manera simultánea. El cuello de botella en los algoritmos de 
+filtrado colaborativo convencionales es la búsqueda de vecinos entre 
+una gran población de usuarios de vecinos potenciales.
 
 
 * Comentarios de aspectos interesantes
 
+Encuentro que el desarrollo de mas de una propuesta de solución a las interrogantes, que presentan los autores es una buena técnica para validar 
 
 
 
 
 * Critica a lo que consideren que no fue adecuado
 
+Lo que no logro tener muy claro es la obtención de los resultados, producto que estos pueden variar ya que 
 
