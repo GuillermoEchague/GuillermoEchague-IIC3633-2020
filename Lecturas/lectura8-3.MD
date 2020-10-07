@@ -1,0 +1,13 @@
+# Lectura 12
+
+## Inspectability and control in social recommenders
+
+Al inicio del artículo, realizan la aclaración de algo muy interesante que, es posible que los usuarios deseen dar un peso adicional (o menor) a algunos de los elementos y / o algunos de sus amigos. Modificando las recomendaciones que pueda dar un modelo de recomendación social o los me gusta de los amigos en Facebook.
+
+Los trabajaos relacionados a este, dan a conocer que la influencia positiva en la experiencia de usuario con los métodos de inspeccionabilidad y control puede que estos beneficios se extrapolen a los recomendadores sociales.
+
+En este trabajo para demostrar lo propuesto anteriormente, se realizó un experimento de usuario en línea (N = 267) con un sistema de recomendación de música de Facebook que brinda a los usuarios control sobre las recomendaciones y explica cómo surgieron. Lo interesante de los resultados muestran que la capacidad de inspección y el control aumentan la comprensión y el control percibidos por los usuarios sobre el sistema.
+
+De acuerdo con los resultados de los experimentos, la capacidad de inspección y de control tienen un efecto positivo en la experiencia del usuario, porque un sistema de recomendación inspeccionable y controlable es más fácil de entender. La mayor comprensibilidad hace que los usuarios se sientan más en control sobre el sistema, y aumente la calidad percibida de las recomendaciones, lo interesante de este trabajo es que demuestra que la mayor calidad de control y recomendación percibida hace que los usuarios estén más satisfechos con el sistema. Pero, por otro lado, las recomendaciones conocidas son menos útiles, ya que no contienen ninguna novedad, lo que explica la disminución en la satisfacción del sistema. Hay que tener en cuenta que estos sistemas son aplicados a comportamientos humanos, por lo que es algo muy complejo y puede que un solo modelo no sea suficiente para poder predecir la elección que este realiza o que presenten resultados no esperados. Se explica en el trabajo que la confianza es una condición previa importante para que un recomendador social funcione para un usuario. 
+
+Otro punto interesante es que se compararon las condiciones de control con la condición "sin control", también se compara las condiciones de control entre sí, para determinar qué tipo de control prefieren los usuarios. Obteniéndose como diferencia significativa las calificaciones de los usuarios de las recomendaciones. Los autores sobre este punto concluyen que la condición de "control de amigos" puede brindar al usuario un control más preciso, pero la condición de "control de elementos" puede llevar a una percepción de más novedad recomendaciones.
