@@ -1,0 +1,13 @@
+# Lectura 14
+
+## Carousel Personalization in Music Streaming Apps with Contextual Bandits
+
+En este trabajo, se realiza un estudio sobre la aplicación del carrusel de las aplicaciones, donde se pueden utilizar para realizar recomendaciones personalizadas, pero esta tarea no es fácil de realizar.
+Lo interesante de este trabajo, es que acá, se propone una metodología que permita realizar esta actividad propuesta. Lo interesante en este trabajo es que busca demostrar empíricamente la efectividad del marco para capturar características de carruseles del mundo real al abordar una tarea de recomendación de listas de reproducción a gran escala en una aplicación móvil de transmisión de música global.
+
+La importancia de desarrollar este tipo de recomendaciones está en poder ayudar a los usuarios a que puedan navegar de mejor manera dentro de grandes volúmenes de datos y opciones. En este artículo, se modela la personalización del carrusel como un bandido de múltiples brazos con un problema de aprendizaje de múltiples jugadas. Dentro del trabajo relacionado, se utilizan los modelos contextuales bandit para ser aplicados en el carrusel de App de manera on-line. El objetivo de estos métodos es predecir la clasificación online de estos modelos a partir de varias evaluaciones offline. Lo interesante de este trabajo es que se, evalua empíricamente la efectividad del marco de personalización de carrusel.
+
+
+Los experimentos realizados, se evalúan versiones semi-personalizadas de varios algoritmos / políticas populares de toma de decisiones secuenciales, utilizando los clústeres Q = 100 proporcionados, y comparamos su desempeño con métodos totalmente personalizados. Se consideran los siguientes métodos en el desarrollo de este trabajo, como son: aleatorio, ϵ-greedy-seg, etc-seg, kl-ucb-seg, ts-seg. De forma predeterminada, las políticas no actualizan los parámetros relacionados con las listas de reproducción recomendadas que el modelo en cascada etiqueta como invisibles. A modo de comparación, también se implementan versiones de estas políticas que no cumplen con este comportamiento. 
+
+Como se mencona en este trabajo, al igual que otros trabajos relacionados, se asume que las distribuciones de armas / tarjetas son fijas e independientes, lo que podría ser poco realista. La selección individual de las listas de reproducción L principales no siempre conduce al mejor conjunto de listas de reproducción L.
