@@ -17,11 +17,16 @@ Las fortalezas de los modelos de recomendación basados en el aprendizaje profun
 Pero dentro de sus limitaciones esta la Interpretabilidad al comportase como cajas negras, y proporcionar predicciones explicables parece ser una tarea realmente desafiante. Requisito de datos, ya que el aprendizaje profundo consume mucha información y un amplio ajuste de hiperparámetros. Aunque en este trabajo no es explicito, uno de los principales obstáculos que presentan estos modelos son que necesitan una gran capacidad de cálculo, esta es una especie de letra chica para estos modelos.
 
 En el estado del arte de Deep Learning en sistemas recomendadores se discuten los desafíos y los problemas abiertos, e identifican las nuevas tendencias y direcciones futuras en este campo de investigación.
+
 En esta sección, primero se presentan las categorías de modelos de recomendación basados en el aprendizaje profundo y luego destacan los prototipos de investigación de vanguardia, con el objetivo de identificar el avance más notable y prometedor de los últimos años.
 Recomendación con bloques de construcción neuronales, los modelos se dividen en ocho subcategorías de conformidad con los ocho modelos de aprendizaje profundo antes mencionados: MLP, AE, CNNs, RNNs, RBM, NADE, AM, AN y sistema de recomendación basado en DRL. 
+
 Recomendación con modelos Deep Hybrid, utilizan más de una técnica de aprendizaje profundo. La flexibilidad de las redes neuronales profundas hace posible combinar varios bloques de construcción neuronales para complementarse entre sí y formar un modelo híbrido más poderoso.
+
 MLP es una red concisa pero eficaz que ha demostrado ser capaz de aproximar cualquier función medible a cualquier grado deseado de precisión. Como tal, es la base de numerosos enfoques avanzados y se usa ampliamente en muchas áreas.
 Extensión neuronal de los métodos de recomendación tradicionales. Muchos modelos de recomendación existentes son esencialmente métodos lineales. MLP se puede utilizar para agregar transformación no lineal a enfoques RS existentes e interpretarlos en extensiones neuronales.
+
 Casi todas las variantes del codificador automático, como el codificador automático de eliminación de ruido, el codificador automático variacional, el codificador automático de contacto y el codificador automático marginalizado se pueden aplicar a la tarea de recomendación.
+
 Las redes neuronales de convolución son poderosas para procesar datos multimedia no estructurados con operaciones de convolución y agrupación. La mayoría de los modelos de recomendación basados en CNN utilizan CNN para la extracción de características.
 
